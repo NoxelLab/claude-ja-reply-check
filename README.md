@@ -9,11 +9,12 @@ Claude Code の日本語以外の返答を日本語で書き直させる Stop �
 
 Node.js 18 以上が必要です。
 
-Claude Code で次のコマンドを実行します。
+Claude Code で次のコマンドを 1 行ずつ実行します。
 
 ```
 /plugin marketplace add NoxelLab/claude-ja-reply-check
 /plugin install ja-reply-check@ja-reply-check
+/reload-plugins
 ```
 
 プラグインを使わない場合は `hooks/ja-reply-check.mjs` を任意の場所に置き、\
