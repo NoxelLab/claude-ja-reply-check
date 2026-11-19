@@ -1,0 +1,15 @@
+{
+  "name": "ja-reply-check",
+  "owner": {
+    "name": "NoxelLab",
+    "url": "https://github.com/NoxelLab"
+  },
+  "description": "Claude Code の日本語以外の返答を日本語で書き直させる Stop フック",
+  "plugins": [
+    {
+      "name": "ja-reply-check",
+      "source": "./",
+      "description": "Claude Code の日本語以外の返答を日本語で書き直させる Stop フック"
+    }
+  ]
+}
