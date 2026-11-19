@@ -1,4 +1,4 @@
-# ja-reply-check
+# claude-ja-reply-check
 
 Claude Code の日本語以外の返答を日本語で書き直させる Stop フック
 
@@ -12,7 +12,7 @@ Node.js 18 以上が必要です。
 Claude Code で次のコマンドを実行します。
 
 ```
-/plugin marketplace add NoxelLab/ja-reply-check
+/plugin marketplace add NoxelLab/claude-ja-reply-check
 /plugin install ja-reply-check@ja-reply-check
 ```
 
